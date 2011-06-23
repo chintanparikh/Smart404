@@ -1,0 +1,3 @@
+Smart404 provides a 'failsafe' for 404 requests.
+
+Basically, if you link someone to foo.html when the real link is foo.php, this script will automatically go to foo.php, assuming foo.html does not exist.
