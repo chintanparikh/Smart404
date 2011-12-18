@@ -1,5 +1,6 @@
 Smart404 provides a 'failsafe' for 404 requests.
 
 Basically, if you link someone to foo.html when the real link is foo.php, this script will automatically go to foo.php, assuming foo.html does not exist.
+It works for many different file types, including images, videos, audio, etc
 
-To use, simply rename the file 'RENAMETOHTACCESS' to '.htaccess' and copy and paste .htaccess and smart404/ to your web root.
+To use, simply rename the file clone the repository to your document root.
