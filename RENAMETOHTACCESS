@@ -1,3 +1,0 @@
-#If you already have a .htacess file, include the following line to user Smart404.
-#If you don't have a .htaccess file, just copy and paste this file into your web root (usually /www or /htdocs)
-ErrorDocument 404 /smart404/404.php
